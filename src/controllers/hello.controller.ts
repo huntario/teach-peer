@@ -6,7 +6,7 @@ import {get} from '@loopback/rest';
 export class HelloController {
   @get('/hello')
   hello(): string {
-      return 'Hello you suck lol!';
+      return 'Hello whatever bro haha lol so funny!';
   }
   constructor() {}
 }
